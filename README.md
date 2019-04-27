@@ -1,1 +1,2 @@
-Puhata ja Mängida Database
+# Initial page
+
