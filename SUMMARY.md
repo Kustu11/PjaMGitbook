@@ -1,4 +1,5 @@
-# Sisukord
+# Table of contents
 
-* [Esileht](general.md)
+* [Esileht](README.md)
+* [Database](database.md)
 
