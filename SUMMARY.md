@@ -1,5 +1,5 @@
 # Sisukord
 
 * [Esileht](README.md)
-* [Database](general.md)
+* [Database](GENERAL.md)
 
