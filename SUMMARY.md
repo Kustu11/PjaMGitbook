@@ -1,4 +1,4 @@
-# Table of contents
+# Sisukord
 
-* [Initial page](README.md)
+* [Esileht](README.md)
 
